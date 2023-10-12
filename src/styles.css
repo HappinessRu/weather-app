@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  padding-top: 35px;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: small;
+}
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+.units {
+  position: relative;
+  top: -14px;
+}
+
+.location {
+  text-align: right;
+}
+.sun {
+  color: #ffe168;
+  font-size: 35px;
+}
+.weather {
+  margin: 50px auto;
+  border: 1px solid #dadde1;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 600px;
+}
+.icon {
+  font-size: 35px;
+  color: #d9d9d9;
+}
+.humidity {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.wind {
+  text-align: center;
+}
